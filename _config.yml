@@ -1,0 +1,13 @@
+# Site settings
+title: Benjamin Searle
+subtitle: Adventures of a High-School student
+developer: Benjamin / Developer
+email: benjamin@flippinsweetdude.com
+description: "This webpage displays my work.  I wrote this in linux using jekyll and git.  You can find more of my work on www.github.com/TheGreatBenbino.
+url: "http://benjaminsearle.com"
+twitter_username: flippinsweetben
+github_username:  TheGreatBenbino
+
+# Build settings
+markdown: kramdown
+permalink: pretty
